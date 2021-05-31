@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/commercialForTiles/static/css/main.bab0b925.chunk.css",
+    "main.js": "/commercialForTiles/static/js/main.1983d392.chunk.js",
+    "main.js.map": "/commercialForTiles/static/js/main.1983d392.chunk.js.map",
+    "runtime-main.js": "/commercialForTiles/static/js/runtime-main.52f398f2.js",
+    "runtime-main.js.map": "/commercialForTiles/static/js/runtime-main.52f398f2.js.map",
+    "static/js/2.dc3aaf06.chunk.js": "/commercialForTiles/static/js/2.dc3aaf06.chunk.js",
+    "static/js/2.dc3aaf06.chunk.js.map": "/commercialForTiles/static/js/2.dc3aaf06.chunk.js.map",
+    "index.html": "/commercialForTiles/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/commercialForTiles/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.dc3aaf06.chunk.js.LICENSE.txt": "/commercialForTiles/static/js/2.dc3aaf06.chunk.js.LICENSE.txt",
+    "static/media/logo.6630607b.png": "/commercialForTiles/static/media/logo.6630607b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52f398f2.js",
+    "static/js/2.dc3aaf06.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.1983d392.chunk.js"
+  ]
+}
